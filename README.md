@@ -5,6 +5,15 @@ The buoyancy engine is built with two watertight enclosures and external mountin
 
 The upper part, the electrical enclosure, includes one 2.4GHz antenna, one customized PCB, one pressure sensor,one peristaltic pump, two 9V batteries and other electrical components. The enclosure on the bottom is mainly used for storing the water drived by the peristaltic pump.
 
+Rendered Buoyancy Engine 
+
+![Capture1](https://github.com/winnieay/BuoyancyEngine/assets/88380759/7a8c1507-93f6-4c0b-8b05-36906b9a37ac)  ![Capture2](https://github.com/winnieay/BuoyancyEngine/assets/88380759/687129bf-da87-4b1c-bbc2-6734dbadcb98)  
+
+Buoyancy Engine Working Example
+![Capture3](https://github.com/winnieay/BuoyancyEngine/assets/88380759/5820e643-13eb-479d-9879-4b87c657d2f1)
+
+
+
 Specification:
 
 1. Watertight Enclosure

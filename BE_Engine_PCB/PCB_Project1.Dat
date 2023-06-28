@@ -1,0 +1,20 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project1.PrjPCB|ReportField=ProjectFullPath~C:\Users\Winnie\Desktop\BE_BOARD\PCB_Project1.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Project1.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~16:56:54|ReportField=ReportDate~06/06/2023|ReportField=ReportDateTime~06/06/2023 16:56:54|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~45|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~9e33a9f22789611d227f600f481969f287509e1c|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~06/06/2023|ReportField=CurrentTime~16:56:42|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Winnie\Desktop\BE_BOARD\History\Sheet1.SchDoc\Sheet1.~(39).SchDoc|ReportField=DocumentName~Sheet1.~(39).SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~21/05/2023|ReportField=Organization~|ReportField=ProjectName~PCB_Project1.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project1.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Winnie\Desktop\BE_BOARD\PCB_Project1.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|1-Pin Pad||9V_GND1, 9V_GND2, 9V_GND3, 9V_POWER1, 9V_POWER2, 9V_POWER3, ANTENNA_PAD|1-Pin Pad|1-Pin Pad|7
+2|2Pin||ANTENNA, PUMP, SWITCH|XH2.54-2pin|2Pin|3
+3|100pF||C1, C2, C3, C4, C9, C10, C11, C14, C15, C16, C17, C18, C19|C0805|Cap|13
+4|22pF||C5, C6|C0805|Cap|2
+5|12.5pF||C7, C8|C0805|Cap|2
+6|100nF||C12, C13|C0805|Cap|2
+7|Fuse|PPTC|F|FUSE-PPTC-30V - 5A|Fuse|1
+8|Bluetooth||HC-05|hc-05|HC-05|1
+9|STM32F103C8T6||IC1|LQFP48|STM32F103C8T6|1
+10|TB6612FNG_O,EL_|Integrated Circuit|IC2|SOP65P760X160-24N|TB6612FNG_O,EL_|1
+11|STM||P1|XH2.54-4pin|4Pin|1
+12|DepthSensor||P2|XH2.54-4pin|4Pin|1
+13|LED||POWER_LED|LED-0805|LED|1
+14|10K||R1, R2, R3|R0805|Resistor_1|3
+15|1K||R4, R5|R0805|Resistor_1|2
+16|STEP_DOWN_MODULE_5V||STEP_DOWN_MODULE_5V|STEP_DOWN_MODULE_5V|STEP_DOWN_MODULE_5V|1
+17|AMS1117_5Vto3.3V||U1|AMS1117 - SOT-223|AMS1117|1
+18|8MhZ||XT|3225-P|Passive Crystal|1
+19|32.7680K|Crystal or Oscillator|Y1_FC-135|FC135327680KAAG0|FC-135_32.7680KA-AG0|1

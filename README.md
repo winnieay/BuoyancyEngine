@@ -15,12 +15,12 @@ The upper part, the electrical enclosure, includes one 2.4GHz antenna, one custo
 
 <p align="center">
     <h3>Buoyancy Engine Working Example</h3> <br />
-   <img width="778" alt="Screenshot 2024-02-25 at 13 37 47" src="https://github.com/winnieay/BuoyancyEngine/assets/88380759/fed39d2c-db8e-4868-8259-6bbebb4b7d76"><br />
+   <img width="680" alt="Screenshot 2024-02-25 at 13 37 47" src="https://github.com/winnieay/BuoyancyEngine/assets/88380759/fed39d2c-db8e-4868-8259-6bbebb4b7d76"><br />
 </p>
 
 <p align="center">
     <h3>PCB Design & Ground Receiver</h3> <br />
-   <img width="778" alt="Screenshot 2024-02-25 at 13 37 47" src="https://github.com/winnieay/BuoyancyEngine/assets/88380759/fed39d2c-db8e-4868-8259-6bbebb4b7d76"><br />
+   <img width="680" alt="Screenshot 2024-02-25 at 13 37 47" src="https://github.com/winnieay/BuoyancyEngine/assets/88380759/fed39d2c-db8e-4868-8259-6bbebb4b7d76"><br />
 </p>
 
 

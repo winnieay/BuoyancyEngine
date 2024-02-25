@@ -17,14 +17,8 @@ The upper part, the electrical enclosure, includes one 2.4GHz antenna, one custo
 <p align="center">
     Buoyancy Engine Working Example <br />
     <img height="200" src="https://github.com/winnieay/BuoyancyEngine/assets/88380759/7a8c1507-93f6-4c0b-8b05-36906b9a37ac" >
-    <img height="200" src="https://github.com/winnieay/BuoyancyEngine/assets/88380759/687129bf-da87-4b1c-bbc2-6734dbadcb98" ><br />
+    <img height="200" src="https://github.com/winnieay/BuoyancyEngine/assets/88380759/5820e643-13eb-479d-9879-4b87c657d2f1" ><br />
 </p>
-
-![Uploading Screenshot 2024-02-25 at 13.37.47.png…]()
-
-
-![Capture3](https://github.com/winnieay/BuoyancyEngine/assets/88380759/5820e643-13eb-479d-9879-4b87c657d2f1)
-
 
 
 Specification:
